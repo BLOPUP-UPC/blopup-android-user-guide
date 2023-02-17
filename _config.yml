@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: BLOPUP guia d'usuari
+markdown: kramdown
+domain: blopup-upc.github.io
+url: https://blopup-upc.github.io
+baseurl: /blopup-android-user-guide/
