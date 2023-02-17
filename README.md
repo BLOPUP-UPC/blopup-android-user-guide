@@ -1,6 +1,8 @@
-Welcome to the BLOPUP user guide.
+Benvingut a la guia d'usuari de l'aplicació per android del projecte BLOPUP.
 
-* [Getting started](getting-started.md)
-* [Patient registration](patient-registration.md)
-* [Taking vitals](take-vitals.md)
-* [Application preferences](preference.md)
+* [Inici de sessió](ca/logging-in.md)
+* [Registrar un pacient](ca/patient-registration.md)
+* [Descarregar pacients del servidor](ca/download-patient.md)
+* [Prendre constants vitals](ca/take-vitals.md)
+* [Configuració de l'aplicació](ca/settings.md)
+* [Contacteu amb nosaltres]()
