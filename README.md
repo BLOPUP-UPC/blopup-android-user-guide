@@ -1,4 +1,4 @@
-Benvingut a la guia d'usuari de l'aplicació per android del projecte BLOPUP.
+## Benvingut a la guia d'usuari de l'aplicació per android del projecte BLOPUP.
 
 * [Inici de sessió](ca/logging-in.md)
 * [Registrar un pacient](ca/patient-registration.md)
@@ -6,3 +6,4 @@ Benvingut a la guia d'usuari de l'aplicació per android del projecte BLOPUP.
 * [Prendre constants vitals](ca/take-vitals.md)
 * [Configuració de l'aplicació](ca/settings.md)
 * [Contacteu amb nosaltres]()
+{:toc}
