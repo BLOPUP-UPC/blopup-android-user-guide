@@ -2,17 +2,18 @@
 
 Podeu registrar un nou pacient a la secció **Registrar pacient** al menú principal.
 
-<img src="../assets/dashboard.jpg" width="270" height="600">
+<img src="../assets/dashboard.png" width="270">
 
 #### 1. Introduint les dades del pacient
 
 A la pantalla de creació de pacient podeu introduir les dades de contacte bàsiques del pacient. Les dades obligatòries són el nom i cognoms, la data de naixement o edat estimada i el gènere. Un cop omplert el formulario, podeu prèmer el botó **ENVIAR**.
 
-<img src="../assets/register-patient.jpg" width="270" height="1295">
+<img style="display:inline" src="../assets/register-patient-1.png" width="45%">
+<img style="display:inline" src="../assets/register-patient-1.png" width="45%">
 
 Un cop creat el pacient, navegareu cap a la pantalla de detalls del pacient. Allà podeu editar-lo amb el botó del llapis o veure les dades del pacient, com ara les visites que ha realitzat o l'històric de constants vitals.
 
-<img src="../assets/patient-details-1.jpg" width="270" height="600">
+<img src="../assets/patient-details-1.png" width="270">
 
 #### 2. Pacients similars
 
