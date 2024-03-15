@@ -7,5 +7,4 @@
 * [Descarregar pacients del servidor](ca/download-patient.md)
 * [Prendre constants vitals](ca/take-vitals.md)
 * [Adherencia](ca/adherence.md)
-* [Graficos]
 * [Configuració de l'aplicació](ca/settings.md)
