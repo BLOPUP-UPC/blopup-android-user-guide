@@ -30,6 +30,8 @@ Cuando un paciente tiene tratamientos asignados podremos tambien documentar su [
 
 Volviendo a la pantalla de resultados después de añadir uno o más tratamientos, cada tratamiento tiene un icono arriba a la derecha que despliega un menú contextual. En este menú podemos interactuar con cada tratamiento.
 
+<img src="../assets/treatment-edit.png" width="50%">
+
 Diferenciamos como editar los tratamientos si se han añadido el mismo dia o si vienen de recomendaciones previas.
 
 Si el tratamiento ha sido añadido este mismo día, tenemos las opciones de volver a editar el contenido en su formulario correspondiente (por ejemplo si hay errores) o borrarlo completamente.
@@ -37,6 +39,8 @@ Si el tratamiento ha sido añadido este mismo día, tenemos las opciones de volv
 ### Tratamientos previos
 
 Un tratamiento previo no se puede cambiar sino que se puede “Finalizar”. Esto lo esconderá de visitas futuras. Los datos previos quedarán guardados.
+
+<img src="../assets/treatment-finalize.png" width="50%">
 
 Si por cualquier razón se quiere editar un tratamiento ya en marcha (como cambiar la dosis o frecuencia), recomendamos finalizarlo y añadir uno nuevo con información parecida.
 
