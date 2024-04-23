@@ -7,4 +7,4 @@ Para iniciar sesión:
 - Añada la contraseña vinculada al usuario de Santa Anna. 
 - En ubicación de la sesión, seleccione “Hospital de Santa Anna”
 
-<img src="../assets/login-page.jpg" width="270" height="600">
+<img src="../assets/login.png" width="270" height="600">
