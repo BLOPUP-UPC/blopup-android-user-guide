@@ -1,4 +1,4 @@
-[Castellano](readme-es.md) | [English](readme-en.md)
+[Catalan](README.md) | [Castellano](readme-es.md) | [English](readme-en.md)
 
 ## Benvingut a la guia d'usuari de l'aplicació per android del projecte BLOPUP.
 
