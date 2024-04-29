@@ -1,7 +1,10 @@
-## Logging in
+# Logging In
 
-When you start the app you will be presented with the login page. Introduce your credentials to access the system and press the **LOG IN** button.
+There's a different account for each location.
+Currently we only have user and password for the location of Santa Anna.
+To log in:
+- Enter the user linked to Santa Anna.
+- Enter the password linked to the Santa Anna user account.
+- Under Location, choose "Santa Anna Hospital".
 
-<img src="../assets/login-page.jpg" width="270" height="600">
- 
-**Note:** Apart from the credentials, you must choose a location (e.g. Santa Anna Hospital).
+<img src="../assets/login.png" width="270" height="600">

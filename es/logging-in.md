@@ -1,7 +1,7 @@
 # Iniciar Sesion
 
 Hay un usuario diferente por cada ubicación. 
-De momento solo tendremos usuario/ contraseña para la ubicación de Santa Anna. 
+De momento solo tendremos usuario/contraseña para la ubicación de Santa Anna. 
 Para iniciar sesión: 
 - Añada el usuario vinculado a Santa Anna. 
 - Añada la contraseña vinculada al usuario de Santa Anna. 

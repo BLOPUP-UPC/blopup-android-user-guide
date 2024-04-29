@@ -1,29 +1,35 @@
-## Registering a new patient
+# Patient Registration
 
-You can register new patients by clicking on the **Register Patient** button in the home menu.
+You can register a new patient in the Register Patient section in the main menu.
 
-<img src="../assets/dashboard.jpg" width="270" height="600">
+<img src="../assets/register-patient-1.png" width="45%">
 
-#### 1. Entering Patient Details
+In the Patient creation screen you must enter the patient's basic information. All inputs are mandatory and marked in red.
 
-After clicking **Register Patient**, you will be presented with a form to fill out the patient's basic information. You should input the patient's name, gender and birthdate or estimated age. When done, press "Submit" button.
+<img src="../assets/patient-details-1.png" width="45%">
 
-<img src="../assets/register-patient.jpg" width="270" height="1295">
+You can enter birthdate or estimated age in case you don't have a concrete date.
 
-If you did not enter the required details, you will be shown a message showing which fields are needed to be filled in order to complete registration.
+## Recording consent
 
-After successfully adding a new patient, a summary regarding patient's data along with the patient photo is shown. From here you can start to interact with the patient, such as visiting the patient and entering biometrics data in the patient's vitals. 
+To register a new patient you'll need to record their consent by voice. Choose the preferred language for the patient in the drop-down, then press Record Legal Consent.
 
-You can also update the patient by heading to the pencil menu in the bottom.
+<img src="../assets/consent-1.png" width="45%">
+<img src="../assets/consent-2.png" width="45%">
 
-![](assets/patient-details-1.jpg)
+In the Legal Consent Recording section, there are two texts: one in the app language that explains what you can do in this section, and another in the chosen patient languge that explains the legal consent statement, which will be played on speakerphone once you press Record Legal Consent.
 
-#### 2. Adding Patient Photo
+While recording the patient's consent, you'll see the message "Recording in Progress" at the top of the screen, signifying that the recording is active.
 
-Another feature in the Android client during registration is the ability to upload a photo related to the patient. To do this, click on the camera icon. You can either take a photo now or choose an existing photo in your phone/tablet. 
+<img src="../assets/consent-3.png" width="50%">
 
-#### 3. Finding Similar Patients
+During the recording you can pause and continue as many times as you'd like. To do that, press on Pause so the recording stops. When you want to resume, press on Continue. Once the patient has given their consent, press on "Stop and Save Recording".
 
-When registering a patient, similar existing patients will be shown to help you merge the patients. Similar patients are defined by patients having the same **names**, **gender**, **address** and **date of birth**. You can choose either to merge to an existing patient, or register the patient as new.
+<img src="../assets/consent-4.png" width="50%">
 
-![](assets/similar-patient.jpg)
+As you return to the Register form, the system will show an icon indicating that the consent recording is complete, along with a notification of success. If you'd like to repeat the recording process, you can click on Record again.
+
+<img src="../assets/consent-5.png" width="50%">
+
+Once the form is complete, the button to create the patient record will activate.
+

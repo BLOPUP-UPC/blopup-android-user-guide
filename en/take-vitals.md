@@ -1,29 +1,37 @@
-## Taking vitals
+# Taking Vitals
 
-In order to take a patient's vitals, you have to enter the patient details screen and go to the visits tab.
+## Arterial pressure
 
-<img src="../assets/patient-details-1.jpg" width="270" height="600">
+To record arterial pressure and pulse rate, first make sure bluetooth is active and the tensiometer is turned on.
 
-There, you will see if the patient have any old or active visits. In case you have to start a new visit, click on the Play button in the top menu.
+<img src="../assets/take-vitals-1.png" width="50%">
 
-<img src="../assets/patient-details-2.jpg" width="270" height="600">
+Take the patient's pressure with the tensiometer, and when successful you will see a screen summarizing systolic and dyastolic pressure along with pulse rate.
 
-When you enter an active visit or create a new one, you will be presented with an empty screen with a text at the bottom asking you to take some vitals. You can click on the "SELECT" button.
+<img src="../assets/take-vitals-3.png" width="50%">
 
-<img src="../assets/take-vitals-1.jpg" width="270" height="600">
+The app provides instructions you can check before starting the visit by opening a dedicated section.
 
-The form to take vitals will open. Here you have to click on the "Rebre dades del tensiòmetre" button to take the blood pressure measurements from the patient, and then click on the "Rebre pes de la bàscula" to take the weight from the scale. The height of the patient can be manually introduced on the "Height" text box.
+<img src="../assets/take-vitals-2.png" width="50%">
 
-<img src="../assets/take-vitals-2.jpg" width="270" height="600">
+## Scale
 
-This is the screen for taking blood pressure measurements from the blood pressure device:
+To record the patient's weight, make sure the scale shows a bluetooth symbol as you weigh them.
 
-<img src="../assets/blood-pressure.jpg" width="270" height="600">
+<img src="../assets/take-vitals-4.png" width="50%">
 
-This is the screen for taking the weight from the scale:
+The scale sends data automatically, but be sure to see the symbol. Once the weight has been recorded, the app will show a confirmation screen.
 
-<img src="../assets/scale.jpg" width="270" height="600">
+<img src="../assets/take-vitals-5.png" width="50%">
 
-Once you are finished taking the patient's measurements, when you click on the "SEND" button, you will be presented with this screen, showing the measurements you just took:
+## Height
 
-<img src="../assets/take-vitals-3.jpg" width="270" height="600">
+Height is input manually in the form, and is only required the first time a patient comes for a visit.
+
+<img src="../assets/take-vitals-6.png" width="50%">
+
+Take the measurement with the dedicated laser tool, and fill out the field once you have the right measurement.
+
+During future visits, the height will be prefilled and may be edited if needed.
+
+Once done with taking vitals, you will access the [Results](results.md) screen.
