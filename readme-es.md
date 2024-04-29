@@ -1,4 +1,4 @@
-[Catalan](README.md)
+[Catalan](README.md) | [English](readme-en.md)
 
 ## Bienvenides a la guia de usuario para la aplicación Android del proyecto BLOPUP.
 
