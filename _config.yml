@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
-title: BLOPUP - Blood Pressure Under Pressure
+# theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
+title: BLOPUP App Guide
 markdown: kramdown
 domain: blopup-upc.github.io
 url: https://blopup-upc.github.io
