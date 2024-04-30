@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ## Inici de sessió
 
 En iniciar l'aplicació veureu la pantalla d'inici de sessió. Introduïu les vostres credencials per accedir al sistema i premeu el botó **INICIAR SESSIÓ**

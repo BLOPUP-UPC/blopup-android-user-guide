@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ## Descarregar pacients del servidor
 
 Si en comptes de crear un pacient de zero sabeu que aquest pacient ja ha estat creat i el voleu descarregar des del servidor, heu d'accedir a la secció **Cercar Pacients** del menú principal.

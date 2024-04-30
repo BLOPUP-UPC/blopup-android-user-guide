@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ## Registrar un pacient
 
 Podeu registrar un nou pacient a la secció **Registrar pacient** al menú principal.

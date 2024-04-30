@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ## Prendre constants vitals
 
 Per prendre les constanst vitals d'un pacient, heu d'entrar a la fitxa del pacient i accedir a la pestanya de visites.

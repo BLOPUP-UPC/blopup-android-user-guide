@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ## Configuració de l'aplicació
 
 Per accedir a la configuració de l'aplicació heu d'accedir al menú de la barra superior i un cop desplegat, a la secció **Preferències**.
