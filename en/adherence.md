@@ -1,3 +1,8 @@
+---
+parent: 'English'
+nav_order: 7
+---
+
 # Adherence
 
 Once treatments are assigned to a patient, we can record their adherence. This affects certain parts of the app. 

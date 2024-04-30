@@ -1,3 +1,8 @@
+---
+parent: 'English'
+nav_order: 6
+---
+
 # Treatments
 
 ## Adding Treatments

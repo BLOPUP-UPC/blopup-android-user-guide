@@ -1,3 +1,7 @@
+---
+parent: 'English'
+nav_order: 8
+---
 # Graphs
 
 The graphs of each patient document the evolution of their blood pressure and their adherence (or not) to recommended treatment.

@@ -1,3 +1,7 @@
+---
+parent: 'English'
+nav_order: 9
+---
 # Configuration
 
 <img src="../assets/configuration-access.png" width="50%">

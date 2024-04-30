@@ -1,3 +1,8 @@
+---
+parent: 'English'
+nav_order: 2
+---
+
 # Patient Registration
 
 You can register a new patient in the Register Patient section in the main menu.

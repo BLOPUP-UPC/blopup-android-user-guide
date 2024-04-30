@@ -1,4 +1,10 @@
+---
+parent: 'English'
+nav_order: 3
+---
+
 # Search Patient
+
 
 If instead of creating a patient, you know that the patient already exists, you can recover their account through the Search Patient section in the main menu.
 
