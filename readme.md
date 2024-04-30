@@ -1,7 +1,3 @@
----
-nav_exclude: true
----
-
 # Blopup - Blood Pressure Under Pressure
 
 Welcome to the user guide for the BLOPUP Android app. Here you can find user documentation and step by step guide for performing visits and navigating the data.
