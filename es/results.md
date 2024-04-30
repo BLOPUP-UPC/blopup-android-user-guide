@@ -1,3 +1,8 @@
+---
+parent: "Castellano"
+nav_order: 5
+---
+
 # Resultados
 
 Dependiendo los valores medidos, se determinará el nivel de tensión arterial. 

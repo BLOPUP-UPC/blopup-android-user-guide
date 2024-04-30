@@ -1,9 +1,14 @@
+---
+parent: "Castellano"
+nav_order: 8
+---
 # Gráficos
 
 En los gráficos de cada paciente documentamos la evolución de su presión y su adherencia (o no) a los tratamientos recomendados.
 
 Para acceder a esta sección elegimos el paciente deseado, desde su ficha entramos en la sección de Gráficos y elegimos “Evolución de la presión arterial”.
-<img src="../assets/patient-landing.png" width="45%">
+
+<img src="../assets/patient-landing.png" width="45%" />
 <img src="../assets/patient-graph-section.png" width="45%">
 
 
@@ -11,7 +16,7 @@ El gráfico se despliega en vista horizontal.
 
 Con el gráfico se resumen todas las tomas de presión sistólica (rojo) y diastólica (verde) a lo largo del tiempo, ordenadas por fecha.
 
-<img src="../assets/patient-graph.png" width="45%">
+<img src="../assets/patient-graph.png">
 
 
 A la derecha hay información sobre la adherencia ordenada por fecha, podemos desplegar cada fecha para ver el detalle de cada tratamiento y si el paciente ha confirmado adherencia o no en ese dia.

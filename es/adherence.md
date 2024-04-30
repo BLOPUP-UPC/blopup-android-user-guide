@@ -1,3 +1,8 @@
+---
+parent: "Castellano"
+nav_order: 7
+---
+
 # Adherencia
 
 Una vez asociados los tratamientos al paciente, podemos actuar sobre la adherencia de los mismos. Esto afecta algunas secciones de la app.

@@ -1,3 +1,7 @@
+---
+parent: "Castellano"
+nav_order: 9
+---
 # Configuración
 
 <img src="../assets/configuration-access.png" width="50%">

@@ -1,3 +1,8 @@
+---
+parent: "Castellano"
+nav_order: 2
+---
+
 # Registrar Paciente
 
 Puede registrar un nuevo paciente en la sección Registrar paciente en el menú principal.

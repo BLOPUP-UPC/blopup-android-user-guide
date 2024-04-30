@@ -1,3 +1,8 @@
+---
+parent: "Castellano"
+nav_order: 6
+---
+
 # Tratamientos
 
 ## Añadir Tratamientos

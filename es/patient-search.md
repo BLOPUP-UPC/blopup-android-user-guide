@@ -1,3 +1,8 @@
+---
+parent: "Castellano"
+nav_order: 3
+---
+
 # Buscar paciente
 
 Si en lugar de crear un paciente sabe que este paciente ya ha sido creado, debe acceder a la sección Buscar Pacientes del menú principal.

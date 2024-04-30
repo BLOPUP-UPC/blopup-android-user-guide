@@ -1,3 +1,8 @@
+---
+parent: "Castellano"
+nav_order: 4
+---
+
 # Toma de vitales
 
 ## Presion Arterial
