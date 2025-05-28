@@ -16,10 +16,22 @@ Bienvenides a la guia de usuario para la aplicación Android de BLOPUP. Aquí pu
 
 🇪🇸 [Lee la guía en Castellano](https://blopup-upc.github.io/blopup-android-user-guide/es/)
 
-## Que es Blopup?
+## ¿Que es Blopup?
 
 Blopup es una colaboración entre [UPC - Universitat Politècnica de Catalunya](https://upc.edu), [Salut Sense Sostre](https://salutsensesostre.org/) y [Thoughtworks](https://thoughtworks.com)
 
 El proyecto esta mantenido por voluntarios que participan con sus aptitudes y tiempo a esta causa.
+
+---
+
+Benvingudes a la guia d'usuari per a l'aplicació d'Android de BLOPUP.
+
+Aquí podeu trobar la documentació i guies pas a pas per fer visites i recuperar les dades.
+
+Cat [Llegir la guia en Català](https://blopup-upc.github.io/blopup-android-user-guide/cat/)
+
+## Què és Blopup?
+Blopup és una col·laboració entre [UPC - Universitat Politècnica de Catalunya](https://upc.edu), [Salut Sense Sostre](https://salutsensesostre.org/) i [Thoughtworks](https://thoughtworks.com)
+El projecte es manté gràcies a la feina de voluntaris que dediquen el seu temps i esforç a aquesta causa.
 
 
